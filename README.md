@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @CYBERSOLDIER
 - 👌 My name is Emirhan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Python, Java, C++
+- 🌱 I’m currently learning Python
 - 📫 How to reach me ... You can't reach me b bbut my Discord is: CYBER SOLDIER#9459
 - ヾ(≧▽≦*)o
 
