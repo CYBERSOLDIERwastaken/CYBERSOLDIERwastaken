@@ -3,7 +3,7 @@
 - 🟥 I'm from Turkey 
 - 👀 I’m interested in Python, Java, C# and Javascript
 - 🌱 I’m currently learning C# and Javascript
-- 📫 How to reach me ... You can't reach me b bbut my Discord is: CYBER SOLDIER#9459
+- 📫 How to reach me ... You can't reach me but my Discord is: CYBER SOLDIER#9459
 - ヾ(≧▽≦*)o
 
 
